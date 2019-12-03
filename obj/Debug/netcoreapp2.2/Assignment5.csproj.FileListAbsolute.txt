@@ -1,0 +1,23 @@
+/Users/angelicaalonzo/Desktop/CIDM4360/Assignment5/obj/Debug/netcoreapp2.2/Assignment5.csprojAssemblyReference.cache
+/Users/angelicaalonzo/Desktop/CIDM4360/Assignment5/obj/Debug/netcoreapp2.2/Assignment5.csproj.CoreCompileInputs.cache
+/Users/angelicaalonzo/Desktop/CIDM4360/Assignment5/obj/Debug/netcoreapp2.2/Assignment5.AssemblyInfoInputs.cache
+/Users/angelicaalonzo/Desktop/CIDM4360/Assignment5/obj/Debug/netcoreapp2.2/Assignment5.AssemblyInfo.cs
+/Users/ryangross/Downloads/Assignment5-Angelica/obj/Debug/netcoreapp2.2/Assignment5.csprojAssemblyReference.cache
+/Users/ryangross/Downloads/Assignment5-Angelica/obj/Debug/netcoreapp2.2/Assignment5.csproj.CoreCompileInputs.cache
+/Users/ryangross/Downloads/Assignment5-Angelica/obj/Debug/netcoreapp2.2/Assignment5.AssemblyInfoInputs.cache
+/Users/ryangross/Downloads/Assignment5-Angelica/obj/Debug/netcoreapp2.2/Assignment5.AssemblyInfo.cs
+/Users/angelicaalonzo/Desktop/Assignment5-Angelica/obj/Debug/netcoreapp2.2/Assignment5.csprojAssemblyReference.cache
+/Users/angelicaalonzo/Desktop/Assignment5-Angelica/obj/Debug/netcoreapp2.2/Assignment5.csproj.CoreCompileInputs.cache
+/Users/angelicaalonzo/Desktop/Assignment5-Angelica/obj/Debug/netcoreapp2.2/Assignment5.AssemblyInfoInputs.cache
+/Users/angelicaalonzo/Desktop/Assignment5-Angelica/obj/Debug/netcoreapp2.2/Assignment5.AssemblyInfo.cs
+C:\Users\zmcgu\Documents\2019_ClassesWT_Sem2\Object Oriented Design\Homework\newAssignment5\bin\Debug\netcoreapp2.2\Assignment5.deps.json
+C:\Users\zmcgu\Documents\2019_ClassesWT_Sem2\Object Oriented Design\Homework\newAssignment5\bin\Debug\netcoreapp2.2\Assignment5.runtimeconfig.json
+C:\Users\zmcgu\Documents\2019_ClassesWT_Sem2\Object Oriented Design\Homework\newAssignment5\bin\Debug\netcoreapp2.2\Assignment5.runtimeconfig.dev.json
+C:\Users\zmcgu\Documents\2019_ClassesWT_Sem2\Object Oriented Design\Homework\newAssignment5\bin\Debug\netcoreapp2.2\Assignment5.dll
+C:\Users\zmcgu\Documents\2019_ClassesWT_Sem2\Object Oriented Design\Homework\newAssignment5\bin\Debug\netcoreapp2.2\Assignment5.pdb
+C:\Users\zmcgu\Documents\2019_ClassesWT_Sem2\Object Oriented Design\Homework\newAssignment5\obj\Debug\netcoreapp2.2\Assignment5.csprojAssemblyReference.cache
+C:\Users\zmcgu\Documents\2019_ClassesWT_Sem2\Object Oriented Design\Homework\newAssignment5\obj\Debug\netcoreapp2.2\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\zmcgu\Documents\2019_ClassesWT_Sem2\Object Oriented Design\Homework\newAssignment5\obj\Debug\netcoreapp2.2\Assignment5.AssemblyInfoInputs.cache
+C:\Users\zmcgu\Documents\2019_ClassesWT_Sem2\Object Oriented Design\Homework\newAssignment5\obj\Debug\netcoreapp2.2\Assignment5.AssemblyInfo.cs
+C:\Users\zmcgu\Documents\2019_ClassesWT_Sem2\Object Oriented Design\Homework\newAssignment5\obj\Debug\netcoreapp2.2\Assignment5.dll
+C:\Users\zmcgu\Documents\2019_ClassesWT_Sem2\Object Oriented Design\Homework\newAssignment5\obj\Debug\netcoreapp2.2\Assignment5.pdb
